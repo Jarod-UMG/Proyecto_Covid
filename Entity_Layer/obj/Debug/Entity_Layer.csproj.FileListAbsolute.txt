@@ -1,0 +1,6 @@
+C:\Users\JAROD\source\repos\PROYECTO\Entity_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\JAROD\source\repos\PROYECTO\Entity_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\JAROD\source\repos\PROYECTO\Entity_Layer\obj\Debug\Entity_Layer.csproj.AssemblyReference.cache
+C:\Users\JAROD\source\repos\PROYECTO\Entity_Layer\obj\Debug\Entity_Layer.csproj.CoreCompileInputs.cache
+C:\Users\JAROD\source\repos\PROYECTO\Entity_Layer\obj\Debug\Entity_Layer.dll
+C:\Users\JAROD\source\repos\PROYECTO\Entity_Layer\obj\Debug\Entity_Layer.pdb

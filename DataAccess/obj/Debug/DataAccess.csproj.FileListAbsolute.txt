@@ -1,0 +1,8 @@
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\bin\Debug\Entity_Layer.dll
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\bin\Debug\Entity_Layer.pdb
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\JAROD\source\repos\PROYECTO\DataAccess\obj\Debug\DataAccess.pdb

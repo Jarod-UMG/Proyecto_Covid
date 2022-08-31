@@ -1,0 +1,11 @@
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\bin\Debug\Business_Layer.dll
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\bin\Debug\Business_Layer.pdb
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\bin\Debug\DataAccess.dll
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\bin\Debug\DataAccess.pdb
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\obj\Debug\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\obj\Debug\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\obj\Debug\Business_Layer.csproj.CopyComplete
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\obj\Debug\Business_Layer.dll
+C:\Users\JAROD\source\repos\PROYECTO\Business_Layer\obj\Debug\Business_Layer.pdb
